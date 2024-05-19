@@ -1,0 +1,431 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container-fluid {
+    align-items: center !important;
+    padding: 0 !important;
+    height: 150px !important;
+    position: relative !important;
+    bottom: 20px;
+
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+
+}
+
+.navbar {
+    background-color: #31572c !important;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    padding: 20px;
+    font-size: medium;
+    margin-right: 40px !important;
+
+
+}
+
+
+.estilosh1 {
+    font-family: "Bilbo Swash Caps", cursive;
+    font-size: 60px;
+    margin: auto;
+    font-style: normal;
+    font-weight: 900;
+    text-align: center;
+    color: #31572c;
+    padding: 10px;
+}
+
+.estilomenu {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: 80px;
+    margin: auto;
+    font-style: normal;
+    font-weight: 900;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.estilosub {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: x-large;
+    margin: 10px;
+    font-weight: 700;
+    text-align: center;
+    color: #31572c;
+
+}
+
+
+.estilosh2 {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: large;
+    margin: 10px;
+    font-weight: 900;
+    text-align: left;
+    color: #31572c;
+}
+
+.estiloh3 {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: small;
+    margin: 10px;
+    font-weight: 500;
+    text-align: center;
+    color: #31572c;
+}
+
+.estilo-nosotros {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: large;
+    font-weight: 900;
+    text-align: left;
+    color: #31572c;
+    padding-bottom: 5px;
+    padding-top: 10px;
+
+
+}
+
+.container {
+    text-align: left !important;
+
+}
+
+.parrafos {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: medium;
+}
+
+.imagenesnosotos1 {
+    margin: 0px;
+}
+
+
+.rotiseria {
+    width: 500px;
+    position: absolute;
+    top: 200px;
+    right: 20px;
+
+}
+
+.contedor-menu {
+    text-align: center;
+
+
+}
+
+.links {
+    display: inline-block;
+    position: relative;
+    bottom: 50px;
+    margin: 20px;
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: medium;
+}
+
+.links a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: gray;
+}
+
+.flecha {
+    width: 30px;
+    height: 30px;
+}
+
+.fondo_menu {
+    background-color: #31572c;
+    height: 150px;
+}
+
+
+h6 {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+
+}
+
+.img-menu {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+
+.img-index {
+    width: 100vw !important;
+    height: 50vw !important;
+}
+
+.col-md-6 float-md-end mb-3 ms-md-3 {
+    width: 40vw !important;
+    max-width: 100%;
+    padding-bottom: 10px;
+    margin-right: 20px !important;
+}
+
+.img1 {
+    width: 40vw;
+    max-width: 100%;
+}
+
+.img2 {
+    width: 40vw;
+    max-width: 100%;
+    padding-bottom: 10px;
+
+}
+
+.sub-inicio {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: large;
+    margin: 0px;
+    font-weight: 900;
+    text-align: center;
+    color: #31572c;
+    grid-column: 1/4;
+
+}
+
+
+.li {
+    font-family: "Bricolage Grotesque", sans-serif !;
+    font-size: medium;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.boton {
+    text-align: center;
+
+}
+
+.contenedor-logos {
+    background-color: #31572c;
+    height: 80px;
+}
+
+.logos-footer {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    position: relative;
+    top: 15px;
+
+}
+
+.logos-footer img {
+    width: 40px;
+    height: auto;
+    margin: 0 10px;
+
+}
+
+.clearfix {
+    margin: 10px;
+}
+
+
+.contendor-textomenu {
+    display: inline-block;
+}
+
+.mapa {
+    align-items: left;
+    grid-column: 5/8;
+    grid-row: 1/3;
+
+}
+
+.formulario-derecha {
+    position: relative;
+    bottom: 0px;
+
+}
+
+.estilo-menu {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: larger;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    color: #31572c;
+    text-decoration: none;
+
+}
+
+.parrafo-menu {
+    display: block;
+    text-align: center;
+    padding: 0px;
+}
+
+.calendario {
+    width: 100%;
+    height: 700px;
+    border: 0;
+}
+
+.estilo-reserva {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: medium;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+    color: #31572c;
+    text-decoration: none;
+}
+
+.contenedor-textomenu {
+    display: inline-block;
+    margin: 20px;
+}
+
+/*media queris al final*/
+
+@media screen and (max-width: 768px) {
+
+    .container-fluid {
+        align-items: center !important;
+        padding: 0 !important;
+        height: 100px !important;
+        position: relative !important;
+        bottom: 20px;
+
+    }
+
+    .logo {
+        width: 100px;
+        height: auto;
+        margin: 10px;
+
+    }
+
+    .navbar-brand {
+        color: #ffffff;
+        padding: 0px;
+        margin-right: 10px !important;
+        font-size: smaller;
+
+    }
+
+
+    .estilosh1 {
+        font-size: 20px;
+
+    }
+
+    .col-md-6 {
+        width: 100%;
+    }
+
+    .contenedor-logos {
+        height: 50px;
+    }
+
+    .logos-footer img {
+        width: 30px;
+        height: auto;
+        position: relative;
+        bottom: 5px;
+
+
+    }
+
+    h6 {
+        font-size: smaller;
+
+    }
+
+
+    .tarjetas {
+        display: flex;
+        position: relative;
+        bottom: 30px;
+        justify-content: center;
+        margin: 30px;
+        width: 50px !important;
+
+
+    }
+
+
+}
+
+@media screen and (max-width: 320px) {
+    .estilosh1 {
+        font-size: 40px;
+    }
+
+    .contenedor-logos {
+        height: 40px;
+
+    }
+
+    .col-md-6 {
+        width: 100%;
+    }
+
+    .logos-footer img {
+        width: 15px;
+        height: auto;
+        position: relative;
+        bottom: 10px;
+
+    }
+
+    h6 {
+        font-size: x-small;
+
+    }
+
+    .sub-inicio {
+        font-size: medium;
+        margin: 0px;
+        font-weight: 900;
+        text-align: center;
+
+    }
+
+    .calendario {
+        width: 50%;
+        height: auto;
+    }
+
+    .estilo-nosotros {
+
+        font-size: medium;
+        font-weight: 900;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-top: 10px;
+
+
+    }
+
+    .calendario {
+        width: 50%;
+        height: auto;
+    }
+
+
+}
